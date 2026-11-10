@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 35,
-    "version": "0.35",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.35.apk",
-    "sha256": "df3bdf7a778313ede694d49158341bcae477d73fc9382b76cb01e6fa3981966d",
-    "notes": "New: Trains, Set 1 Steam Pioneers"
+    "versionCode": 36,
+    "version": "0.36",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.36.apk",
+    "sha256": "98cec2877bb964c26da859cf8390f235af31132f922f23022b567ba30db62de4",
+    "notes": "New: Mythical Creatures, 12 Legends with their homelands"
   },
   "tester": {
-    "versionCode": 35,
-    "version": "0.35",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.35.apk",
-    "sha256": "8053f149b45787fafda3754f93efe72b4b6b7e680314f3b7da330c54d1923cb6",
-    "notes": "New: Trains, Set 1 Steam Pioneers"
+    "versionCode": 36,
+    "version": "0.36",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.36.apk",
+    "sha256": "f48b674dab3c38f1a17f02a1b1ef48ca40594ef8b4f59c61ffbd6b0dc133be33",
+    "notes": "New: Mythical Creatures, 12 Legends with their homelands"
   },
   "face": {
     "versionCode": 8,
