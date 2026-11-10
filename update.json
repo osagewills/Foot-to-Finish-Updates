@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 30,
-    "version": "0.30",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.30.apk",
-    "sha256": "11bb137bd7d63be24dac5483f633a208b44e7fdf1c31cecf5faad7fef1adffdd",
-    "notes": "Scenes fill the whole face; builds sit on the ground"
+    "versionCode": 31,
+    "version": "0.31",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.31.apk",
+    "sha256": "8af1eaa5c9958fc53696f2c157f7319e7871b581fe82bd651d282510b21cc464",
+    "notes": "Fix: lets the watch face update show up"
   },
   "tester": {
-    "versionCode": 30,
-    "version": "0.30",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.30.apk",
-    "sha256": "fcb184771ebd356c1e6b121786ea446513d9779e951c1c04b68fccba72f7748e",
-    "notes": "Scenes fill the whole face; builds sit on the ground"
+    "versionCode": 31,
+    "version": "0.31",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.31.apk",
+    "sha256": "71aadff3dcd80f2d00157214fd41a68b3ba5b93bf9e06f7264a85d3748d4458c",
+    "notes": "Fix: lets the watch face update show up"
   },
   "face": {
     "versionCode": 7,
