@@ -1,23 +1,23 @@
 {
   "owner": {
-    "versionCode": 29,
-    "version": "0.29",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.29.apk",
-    "sha256": "3122aabbfc6c4f5902f162ade4a5e2d0b60497b4e8b07a06dc79e9f4481e0e37",
-    "notes": "Free scene: 1970s Desert Service Stop"
+    "versionCode": 30,
+    "version": "0.30",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.30.apk",
+    "sha256": "11bb137bd7d63be24dac5483f633a208b44e7fdf1c31cecf5faad7fef1adffdd",
+    "notes": "Scenes fill the whole face; builds sit on the ground"
   },
   "tester": {
-    "versionCode": 29,
-    "version": "0.29",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.29.apk",
-    "sha256": "02a393b57355bd37ac33060838cfb88865077ba77744c0f73ae77796ba913109",
-    "notes": "Free scene: 1970s Desert Service Stop"
+    "versionCode": 30,
+    "version": "0.30",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.30.apk",
+    "sha256": "fcb184771ebd356c1e6b121786ea446513d9779e951c1c04b68fccba72f7748e",
+    "notes": "Scenes fill the whole face; builds sit on the ground"
   },
   "face": {
-    "versionCode": 6,
-    "version": "1.5",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-WatchFace-1.5.apk",
-    "sha256": "f22674574f1c4838efebda8933222e76adc2bd7c589f4966d0e08a784b2e911c",
-    "notes": "Date with the time under it, clear of pop-up icons"
+    "versionCode": 7,
+    "version": "1.6",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-WatchFace-1.6.apk",
+    "sha256": "99ea8fb7d890da605879d7a624cf79ebf090052acf21a32d41c11c4dfca14d85",
+    "notes": "Full-face scenes (install with app 0.30)"
   }
 }
