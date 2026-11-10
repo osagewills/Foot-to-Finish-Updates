@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 33,
-    "version": "0.33",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.33.apk",
-    "sha256": "e40ebfdfaaff9d4b92ca062754fc802d0e6fec2f65e279cf65ecd3be32ec7d44",
-    "notes": "Fix: full-face scenes on Samsung watches"
+    "versionCode": 34,
+    "version": "0.34",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.34.apk",
+    "sha256": "3aff00f2058d0b2a0a5993d93610e585a4c845ba2e9082b0926b04071a9cde7e",
+    "notes": "New detailed airplanes"
   },
   "tester": {
-    "versionCode": 33,
-    "version": "0.33",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.33.apk",
-    "sha256": "0b80fc3510b3b923c905be32894b5693dc932a9495285b0ff6a8267d6a1c159d",
-    "notes": "Fix: full-face scenes on Samsung watches"
+    "versionCode": 34,
+    "version": "0.34",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.34.apk",
+    "sha256": "668ae47ce93f20e09e7a9031d5c0d08e844108e127ede53e7a8694e62ff3d73e",
+    "notes": "New detailed airplanes"
   },
   "face": {
     "versionCode": 8,
