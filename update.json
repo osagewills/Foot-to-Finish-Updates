@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 31,
-    "version": "0.31",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.31.apk",
-    "sha256": "8af1eaa5c9958fc53696f2c157f7319e7871b581fe82bd651d282510b21cc464",
-    "notes": "Fix: lets the watch face update show up"
+    "versionCode": 33,
+    "version": "0.33",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.33.apk",
+    "sha256": "e40ebfdfaaff9d4b92ca062754fc802d0e6fec2f65e279cf65ecd3be32ec7d44",
+    "notes": "Fix: full-face scenes on Samsung watches"
   },
   "tester": {
-    "versionCode": 31,
-    "version": "0.31",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.31.apk",
-    "sha256": "71aadff3dcd80f2d00157214fd41a68b3ba5b93bf9e06f7264a85d3748d4458c",
-    "notes": "Fix: lets the watch face update show up"
+    "versionCode": 33,
+    "version": "0.33",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.33.apk",
+    "sha256": "0b80fc3510b3b923c905be32894b5693dc932a9495285b0ff6a8267d6a1c159d",
+    "notes": "Fix: full-face scenes on Samsung watches"
   },
   "face": {
     "versionCode": 7,
