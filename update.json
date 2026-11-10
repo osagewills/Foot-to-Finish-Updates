@@ -1,0 +1,23 @@
+{
+  "owner": {
+    "versionCode": 28,
+    "version": "0.28",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.28.apk",
+    "sha256": "c977c53af7bba6f3c7c0778a01b88dc7c8d11578d621d801fac763e5da292d0a",
+    "notes": "Over-the-air updates"
+  },
+  "tester": {
+    "versionCode": 28,
+    "version": "0.28",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.28.apk",
+    "sha256": "6e7d10e11b3d43cf328f194656ad43ed72fdc81c565adf1eca8f9985ec657789",
+    "notes": "Over-the-air updates"
+  },
+  "face": {
+    "versionCode": 6,
+    "version": "1.5",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-WatchFace-1.5.apk",
+    "sha256": "f22674574f1c4838efebda8933222e76adc2bd7c589f4966d0e08a784b2e911c",
+    "notes": "Date with the time under it, clear of pop-up icons"
+  }
+}
