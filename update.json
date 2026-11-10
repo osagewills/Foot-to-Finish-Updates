@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 36,
-    "version": "0.36",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.36.apk",
-    "sha256": "98cec2877bb964c26da859cf8390f235af31132f922f23022b567ba30db62de4",
-    "notes": "New: Mythical Creatures, 12 Legends with their homelands"
+    "versionCode": 37,
+    "version": "0.37",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.37.apk",
+    "sha256": "209d6a70318ba63539d9e687616c620239f634c4d7fab5d73dc3f27e200559f5",
+    "notes": "New: Dragon Hatchery, 10 dragons hatch in the lab"
   },
   "tester": {
-    "versionCode": 36,
-    "version": "0.36",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.36.apk",
-    "sha256": "f48b674dab3c38f1a17f02a1b1ef48ca40594ef8b4f59c61ffbd6b0dc133be33",
-    "notes": "New: Mythical Creatures, 12 Legends with their homelands"
+    "versionCode": 37,
+    "version": "0.37",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.37.apk",
+    "sha256": "8bcc6082e45a6794439445678be7cbd5d390afd108db3f1b05e9623976077d98",
+    "notes": "New: Dragon Hatchery, 10 dragons hatch in the lab"
   },
   "face": {
     "versionCode": 8,
