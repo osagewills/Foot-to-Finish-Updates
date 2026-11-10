@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 34,
-    "version": "0.34",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.34.apk",
-    "sha256": "3aff00f2058d0b2a0a5993d93610e585a4c845ba2e9082b0926b04071a9cde7e",
-    "notes": "New detailed airplanes"
+    "versionCode": 35,
+    "version": "0.35",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.35.apk",
+    "sha256": "df3bdf7a778313ede694d49158341bcae477d73fc9382b76cb01e6fa3981966d",
+    "notes": "New: Trains, Set 1 Steam Pioneers"
   },
   "tester": {
-    "versionCode": 34,
-    "version": "0.34",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.34.apk",
-    "sha256": "668ae47ce93f20e09e7a9031d5c0d08e844108e127ede53e7a8694e62ff3d73e",
-    "notes": "New detailed airplanes"
+    "versionCode": 35,
+    "version": "0.35",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.35.apk",
+    "sha256": "8053f149b45787fafda3754f93efe72b4b6b7e680314f3b7da330c54d1923cb6",
+    "notes": "New: Trains, Set 1 Steam Pioneers"
   },
   "face": {
     "versionCode": 8,
