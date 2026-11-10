@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 28,
-    "version": "0.28",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.28.apk",
-    "sha256": "c977c53af7bba6f3c7c0778a01b88dc7c8d11578d621d801fac763e5da292d0a",
-    "notes": "Over-the-air updates"
+    "versionCode": 29,
+    "version": "0.29",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.29.apk",
+    "sha256": "3122aabbfc6c4f5902f162ade4a5e2d0b60497b4e8b07a06dc79e9f4481e0e37",
+    "notes": "Free scene: 1970s Desert Service Stop"
   },
   "tester": {
-    "versionCode": 28,
-    "version": "0.28",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.28.apk",
-    "sha256": "6e7d10e11b3d43cf328f194656ad43ed72fdc81c565adf1eca8f9985ec657789",
-    "notes": "Over-the-air updates"
+    "versionCode": 29,
+    "version": "0.29",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.29.apk",
+    "sha256": "02a393b57355bd37ac33060838cfb88865077ba77744c0f73ae77796ba913109",
+    "notes": "Free scene: 1970s Desert Service Stop"
   },
   "face": {
     "versionCode": 6,
