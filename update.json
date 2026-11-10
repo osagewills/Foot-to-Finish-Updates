@@ -14,10 +14,10 @@
     "notes": "Fix: full-face scenes on Samsung watches"
   },
   "face": {
-    "versionCode": 7,
-    "version": "1.6",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-WatchFace-1.6.apk",
-    "sha256": "99ea8fb7d890da605879d7a624cf79ebf090052acf21a32d41c11c4dfca14d85",
-    "notes": "Full-face scenes (install with app 0.30)"
+    "versionCode": 8,
+    "version": "1.7",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-WatchFace-1.7.apk",
+    "sha256": "b42a5b5b932cbc9330cbc062587f35c600ee4b80bdc669ee9e68b05f5a42c545",
+    "notes": "Scene fills the whole face"
   }
 }
