@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 37,
-    "version": "0.37",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.37.apk",
-    "sha256": "209d6a70318ba63539d9e687616c620239f634c4d7fab5d73dc3f27e200559f5",
-    "notes": "New: Dragon Hatchery, 10 dragons hatch in the lab"
+    "versionCode": 38,
+    "version": "0.38",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.38.apk",
+    "sha256": "335aeb5b1a97892955a7c6e7586d67bcc629ddb850f30f96d805c659a72a6b98",
+    "notes": "Scenes now fill the whole screen, with the step count clear below the build"
   },
   "tester": {
-    "versionCode": 37,
-    "version": "0.37",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.37.apk",
-    "sha256": "8bcc6082e45a6794439445678be7cbd5d390afd108db3f1b05e9623976077d98",
-    "notes": "New: Dragon Hatchery, 10 dragons hatch in the lab"
+    "versionCode": 38,
+    "version": "0.38",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.38.apk",
+    "sha256": "facd3a5b59c61062b77b96f2e84ae22a9832ced9e9e547cc5da43d5cf8aad2f1",
+    "notes": "Scenes now fill the whole screen, with the step count clear below the build"
   },
   "face": {
     "versionCode": 8,
