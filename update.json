@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 47,
-    "version": "0.47",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.47.apk",
-    "sha256": "a6c3f5cb99a791a6bf7622fec58990f87b06dbe260543a297aa0e1ad8ee9070c",
-    "notes": "New: Trains Set 2, Iron Horses (10 locomotives)"
+    "versionCode": 48,
+    "version": "0.48",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.48.apk",
+    "sha256": "62f9d0048d056432de34f35bea47fb6982a9bd3d4e400c7515e6680863cd8812",
+    "notes": "New: Trains Set 3, Golden Age (10 locomotives)"
   },
   "tester": {
-    "versionCode": 47,
-    "version": "0.47",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.47.apk",
-    "sha256": "66b6426a513d2523aabbdd2d11a83ee16d490befadc00eaad35bff2304ac4393",
-    "notes": "New: Trains Set 2, Iron Horses (10 locomotives)"
+    "versionCode": 48,
+    "version": "0.48",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.48.apk",
+    "sha256": "b6854a1f34611d4ccd63f7f0dc754401bd2628d7d701615f938f40486b7be46e",
+    "notes": "New: Trains Set 3, Golden Age (10 locomotives)"
   },
   "face": {
     "versionCode": 8,
