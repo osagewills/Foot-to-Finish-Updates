@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 45,
-    "version": "0.45",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.45.apk",
-    "sha256": "709c33b1f1eb744b502c9832bf30031759562db782769a0f9d53f54ba2c45c7b",
-    "notes": "Each adult dragon now stands in its own elemental lair"
+    "versionCode": 46,
+    "version": "0.46",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.46.apk",
+    "sha256": "87fea631e20fae90022fc758fe67bbe34bdf4cb6380f202f4b7a7314859e8e1f",
+    "notes": "New: the Elder Dragon, a 20-stage specialty dragon"
   },
   "tester": {
-    "versionCode": 45,
-    "version": "0.45",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.45.apk",
-    "sha256": "3a82fe055ac902610fe4ffd29db72f895f0015b7a4c0c3eb8affba89389628ef",
-    "notes": "Each adult dragon now stands in its own elemental lair"
+    "versionCode": 46,
+    "version": "0.46",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.46.apk",
+    "sha256": "308efb4ef759151b6f66b1350b3c99911e114dcec1e8f77ff36f28c7b76d9247",
+    "notes": "New: the Elder Dragon, a 20-stage specialty dragon"
   },
   "face": {
     "versionCode": 8,
