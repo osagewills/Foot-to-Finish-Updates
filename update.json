@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 38,
-    "version": "0.38",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.38.apk",
-    "sha256": "335aeb5b1a97892955a7c6e7586d67bcc629ddb850f30f96d805c659a72a6b98",
-    "notes": "Scenes now fill the whole screen, with the step count clear below the build"
+    "versionCode": 39,
+    "version": "0.39",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.39.apk",
+    "sha256": "7593d5df7dfd19a831b5c6551bd6d548548d25c4137887ca25c4ab3d2994997f",
+    "notes": "Bigger dragon eggs; scenes fill the whole screen"
   },
   "tester": {
-    "versionCode": 38,
-    "version": "0.38",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.38.apk",
-    "sha256": "facd3a5b59c61062b77b96f2e84ae22a9832ced9e9e547cc5da43d5cf8aad2f1",
-    "notes": "Scenes now fill the whole screen, with the step count clear below the build"
+    "versionCode": 39,
+    "version": "0.39",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.39.apk",
+    "sha256": "ec6027f39424392ba867b6e329332b0e7d8ed12bb4456c71f69e0a678ad838af",
+    "notes": "Bigger dragon eggs; scenes fill the whole screen"
   },
   "face": {
     "versionCode": 8,
