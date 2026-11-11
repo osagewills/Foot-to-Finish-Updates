@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 49,
-    "version": "0.49",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.49.apk",
-    "sha256": "f358e186c7a307d593618947666fa81194fe6aac6e4aeab58efea978eeabeb6f",
-    "notes": "New: Trains Sets 4 and 5, all 50 trains complete"
+    "versionCode": 50,
+    "version": "0.50",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.50.apk",
+    "sha256": "8fae5e2f70a1394a9358b986f2537aac072ab4d0fbda35a7345fb2c25394787a",
+    "notes": "Store test: unlock packs with your gems"
   },
   "tester": {
-    "versionCode": 49,
-    "version": "0.49",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.49.apk",
-    "sha256": "af69676f5de12d076caa1f68251843dce2bc024a51a232640e6c186f55eae38c",
-    "notes": "New: Trains Sets 4 and 5, all 50 trains complete"
+    "versionCode": 50,
+    "version": "0.50",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.50.apk",
+    "sha256": "4054c35337113d36a6fea632d70e1322659136e1587ee8963d882298335e600f",
+    "notes": "Store test: unlock packs with your gems"
   },
   "face": {
     "versionCode": 8,
