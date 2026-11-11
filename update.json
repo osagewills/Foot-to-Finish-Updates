@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 39,
-    "version": "0.39",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.39.apk",
-    "sha256": "7593d5df7dfd19a831b5c6551bd6d548548d25c4137887ca25c4ab3d2994997f",
-    "notes": "Bigger dragon eggs; scenes fill the whole screen"
+    "versionCode": 40,
+    "version": "0.40",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.40.apk",
+    "sha256": "8620746ba320d2b83c2e24bd49307b039593636318104201fabba5c51b1d01bb",
+    "notes": "New: feed your hatched dragon 15,000 steps to grow it into an adult"
   },
   "tester": {
-    "versionCode": 39,
-    "version": "0.39",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.39.apk",
-    "sha256": "ec6027f39424392ba867b6e329332b0e7d8ed12bb4456c71f69e0a678ad838af",
-    "notes": "Bigger dragon eggs; scenes fill the whole screen"
+    "versionCode": 40,
+    "version": "0.40",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.40.apk",
+    "sha256": "35280ba0f75f93fbeb5ac2e8c9fe8f21acd620605e9a948aeda0fa117df1cd04",
+    "notes": "New: feed your hatched dragon 15,000 steps to grow it into an adult"
   },
   "face": {
     "versionCode": 8,
