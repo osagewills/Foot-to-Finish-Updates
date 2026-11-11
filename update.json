@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 42,
-    "version": "0.42",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.42.apk",
-    "sha256": "21d0fa6def9e8dddf626e9fea9de8653f54f3f811b920529b71bdaa6a1d49dda",
-    "notes": "New: photoreal trains, adult dragons and adult Legends"
+    "versionCode": 43,
+    "version": "0.43",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.43.apk",
+    "sha256": "73161a294b8136b75652f264c39a535bc9148f366dbef953a2e1c75663cbc371",
+    "notes": "Cleaner adult dragon watch faces"
   },
   "tester": {
-    "versionCode": 42,
-    "version": "0.42",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.42.apk",
-    "sha256": "5ed74252dc24480233783b9f1f341c45391896140709cab54162ea8264f118ee",
-    "notes": "New: photoreal trains, adult dragons and adult Legends"
+    "versionCode": 43,
+    "version": "0.43",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.43.apk",
+    "sha256": "690ebb3cab247ec0c1c1b122481c3c8d6eeadd11b2aeb8c95793ff8f36b774ea",
+    "notes": "Cleaner adult dragon watch faces"
   },
   "face": {
     "versionCode": 8,
