@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 41,
-    "version": "0.41",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.41.apk",
-    "sha256": "f61a8b9c6a108d69a935cce63b8b0a688bd10bdbfc6564611bf0fbe85b1de9d1",
-    "notes": "New photoreal Steam Pioneers trains, each with its own Home Photo"
+    "versionCode": 42,
+    "version": "0.42",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.42.apk",
+    "sha256": "21d0fa6def9e8dddf626e9fea9de8653f54f3f811b920529b71bdaa6a1d49dda",
+    "notes": "New: photoreal trains, adult dragons and adult Legends"
   },
   "tester": {
-    "versionCode": 41,
-    "version": "0.41",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.41.apk",
-    "sha256": "89357d4d4d3f88c5b9a1714643bee4714c5652e46d5d0bf4d501082938406e8c",
-    "notes": "New photoreal Steam Pioneers trains, each with its own Home Photo"
+    "versionCode": 42,
+    "version": "0.42",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.42.apk",
+    "sha256": "5ed74252dc24480233783b9f1f341c45391896140709cab54162ea8264f118ee",
+    "notes": "New: photoreal trains, adult dragons and adult Legends"
   },
   "face": {
     "versionCode": 8,
