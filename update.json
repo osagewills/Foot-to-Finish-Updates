@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 40,
-    "version": "0.40",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.40.apk",
-    "sha256": "8620746ba320d2b83c2e24bd49307b039593636318104201fabba5c51b1d01bb",
-    "notes": "New: feed your hatched dragon 15,000 steps to grow it into an adult"
+    "versionCode": 41,
+    "version": "0.41",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.41.apk",
+    "sha256": "f61a8b9c6a108d69a935cce63b8b0a688bd10bdbfc6564611bf0fbe85b1de9d1",
+    "notes": "New photoreal Steam Pioneers trains, each with its own Home Photo"
   },
   "tester": {
-    "versionCode": 40,
-    "version": "0.40",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.40.apk",
-    "sha256": "35280ba0f75f93fbeb5ac2e8c9fe8f21acd620605e9a948aeda0fa117df1cd04",
-    "notes": "New: feed your hatched dragon 15,000 steps to grow it into an adult"
+    "versionCode": 41,
+    "version": "0.41",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.41.apk",
+    "sha256": "89357d4d4d3f88c5b9a1714643bee4714c5652e46d5d0bf4d501082938406e8c",
+    "notes": "New photoreal Steam Pioneers trains, each with its own Home Photo"
   },
   "face": {
     "versionCode": 8,
