@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 44,
-    "version": "0.44",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.44.apk",
-    "sha256": "8fe547c7c4ce739305e46edb306bef9f29c0176a25c2fd219d1ee7c96e26d6db",
-    "notes": "Adult dragons now stand in the Hatchery Lab"
+    "versionCode": 45,
+    "version": "0.45",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.45.apk",
+    "sha256": "709c33b1f1eb744b502c9832bf30031759562db782769a0f9d53f54ba2c45c7b",
+    "notes": "Each adult dragon now stands in its own elemental lair"
   },
   "tester": {
-    "versionCode": 44,
-    "version": "0.44",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.44.apk",
-    "sha256": "8c7b3fd72e7b25433ad3c094055c24285b0f6e0dfe1893d9c47c1c19a515bdce",
-    "notes": "Adult dragons now stand in the Hatchery Lab"
+    "versionCode": 45,
+    "version": "0.45",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.45.apk",
+    "sha256": "3a82fe055ac902610fe4ffd29db72f895f0015b7a4c0c3eb8affba89389628ef",
+    "notes": "Each adult dragon now stands in its own elemental lair"
   },
   "face": {
     "versionCode": 8,
