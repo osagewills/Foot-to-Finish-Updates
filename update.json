@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 54,
-    "version": "0.54",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.54.apk",
-    "sha256": "94aeff5a90ad6bec28eb98f32df2f1d5b45f24e45ba1f45f171f2f5d758be9d9",
-    "notes": "Fix: progress ring and heart meter fill with every step again"
+    "versionCode": 55,
+    "version": "0.55",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.55.apk",
+    "sha256": "3f4ed2f2921e82d271ef36bcfc58217ae46b893ff20b2b26ef5dfe6978991e1c",
+    "notes": "New: Seasonal category with the rolling Snowman"
   },
   "tester": {
-    "versionCode": 54,
-    "version": "0.54",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.54.apk",
-    "sha256": "afe3337a5ea9217778f49878a8768a1a9bd6bd6f557dc7b405b2ccae13e9d9e2",
-    "notes": "Fix: progress ring and heart meter fill with every step again"
+    "versionCode": 55,
+    "version": "0.55",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.55.apk",
+    "sha256": "69db4f2c7aa761567d465f8b9407eb5c800d28d12494e75eb053371e4fc8e93b",
+    "notes": "New: Seasonal category with the rolling Snowman"
   },
   "face": {
     "versionCode": 8,
