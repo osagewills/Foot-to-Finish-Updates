@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 53,
-    "version": "0.53",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.53.apk",
-    "sha256": "a83feac029136d79a2b5b2baa114af03e116f13092d467b1f003158607b6d13d",
-    "notes": "All 50 Ultimate Challenge airplanes"
+    "versionCode": 54,
+    "version": "0.54",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.54.apk",
+    "sha256": "94aeff5a90ad6bec28eb98f32df2f1d5b45f24e45ba1f45f171f2f5d758be9d9",
+    "notes": "Fix: progress ring and heart meter fill with every step again"
   },
   "tester": {
-    "versionCode": 53,
-    "version": "0.53",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.53.apk",
-    "sha256": "267ce6dc462f0583a6404ca6f79c1bcc3fd38216724c5e6286db6280eed80c13",
-    "notes": "All 50 Ultimate Challenge airplanes"
+    "versionCode": 54,
+    "version": "0.54",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.54.apk",
+    "sha256": "afe3337a5ea9217778f49878a8768a1a9bd6bd6f557dc7b405b2ccae13e9d9e2",
+    "notes": "Fix: progress ring and heart meter fill with every step again"
   },
   "face": {
     "versionCode": 8,
