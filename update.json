@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 50,
-    "version": "0.50",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.50.apk",
-    "sha256": "8fae5e2f70a1394a9358b986f2537aac072ab4d0fbda35a7345fb2c25394787a",
-    "notes": "Store test: unlock packs with your gems"
+    "versionCode": 53,
+    "version": "0.53",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.53.apk",
+    "sha256": "a83feac029136d79a2b5b2baa114af03e116f13092d467b1f003158607b6d13d",
+    "notes": "All 50 Ultimate Challenge airplanes"
   },
   "tester": {
-    "versionCode": 50,
-    "version": "0.50",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.50.apk",
-    "sha256": "4054c35337113d36a6fea632d70e1322659136e1587ee8963d882298335e600f",
-    "notes": "Store test: unlock packs with your gems"
+    "versionCode": 53,
+    "version": "0.53",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.53.apk",
+    "sha256": "267ce6dc462f0583a6404ca6f79c1bcc3fd38216724c5e6286db6280eed80c13",
+    "notes": "All 50 Ultimate Challenge airplanes"
   },
   "face": {
     "versionCode": 8,
