@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 55,
-    "version": "0.55",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.55.apk",
-    "sha256": "3f4ed2f2921e82d271ef36bcfc58217ae46b893ff20b2b26ef5dfe6978991e1c",
-    "notes": "New: Seasonal category with the rolling Snowman"
+    "versionCode": 56,
+    "version": "0.56",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.56.apk",
+    "sha256": "4ad121e5a93c86e6e6b57d29d77e2670da7d072bd1df7c990e5b5420cdc42588",
+    "notes": "Christmas: all 25 seasonal builds"
   },
   "tester": {
-    "versionCode": 55,
-    "version": "0.55",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.55.apk",
-    "sha256": "69db4f2c7aa761567d465f8b9407eb5c800d28d12494e75eb053371e4fc8e93b",
-    "notes": "New: Seasonal category with the rolling Snowman"
+    "versionCode": 56,
+    "version": "0.56",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.56.apk",
+    "sha256": "840c70d7ee382696decf3f8ac7435c24e34647abe947398b545b9d051e559164",
+    "notes": "Christmas: all 25 seasonal builds"
   },
   "face": {
     "versionCode": 8,
