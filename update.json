@@ -1,17 +1,17 @@
 {
   "owner": {
-    "versionCode": 56,
-    "version": "0.56",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.56.apk",
-    "sha256": "4ad121e5a93c86e6e6b57d29d77e2670da7d072bd1df7c990e5b5420cdc42588",
-    "notes": "Christmas: all 25 seasonal builds"
+    "versionCode": 57,
+    "version": "0.57",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-owner-0.57.apk",
+    "sha256": "7316ab1d9bc3dab2db8809cfccc7cc28562f41b04c1666bbbca83ba9b7d26458",
+    "notes": "Christmas grand prize: North Pole Village"
   },
   "tester": {
-    "versionCode": 56,
-    "version": "0.56",
-    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.56.apk",
-    "sha256": "840c70d7ee382696decf3f8ac7435c24e34647abe947398b545b9d051e559164",
-    "notes": "Christmas: all 25 seasonal builds"
+    "versionCode": 57,
+    "version": "0.57",
+    "url": "https://raw.githubusercontent.com/osagewills/foot-to-finish-updates/main/apk/FootToFinish-tester-0.57.apk",
+    "sha256": "93e7fed78f30c37334df723033350efe7b842a9ff37e483efb682e767b44650d",
+    "notes": "Christmas grand prize: North Pole Village"
   },
   "face": {
     "versionCode": 8,
